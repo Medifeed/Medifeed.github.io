@@ -1,6 +1,3 @@
-Thanks for downloading this theme!
+This Website developed for providing information about the services provided Medifeed(A Self initiated group of Students)
 
-Theme Name: Medilab
-Theme URL: https://bootstrapmade.com/medilab-free-medical-bootstrap-theme/
-Author: BootstrapMade.com
-Author URL: https://bootstrapmade.com
+Android app link is https://medifeed.github.io/medifeed.apk
